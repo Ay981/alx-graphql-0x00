@@ -1,0 +1,12 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        { "id": "41", "name": "Big Morty", "status": "Alive", "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg" },
+        { "id": "42", "name": "Body Guard Morty", "status": "Dead", "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg" }
+        { "id": "41", "name": "Big Morty", "status": "Alive", "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg" },
+        { "id": "42", "name": "Body Guard Morty", "status": "Dead", "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg" }
+      ]
+    }
+  }
+}
