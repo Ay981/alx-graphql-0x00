@@ -1,3 +1,4 @@
+
 # GraphQL Episode Query Example
 
 This directory contains example GraphQL queries and their expected outputs for fetching episode details by ID.
@@ -24,3 +25,5 @@ query {
   }
 }
 ```
+
+Replace the `id` value for other queries as needed.
